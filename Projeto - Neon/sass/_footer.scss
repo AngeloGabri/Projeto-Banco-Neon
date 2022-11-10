@@ -224,26 +224,26 @@ footer {
                     margin-bottom: 5.3rem;
                 }
             }
-            
-             .btns{
-                    max-width: 100%;
-                    position: relative;
-                    bottom: 0;
 
-                    button {
-                        padding-left: 0;
-                        justify-content: center;
+            .btns{
+                max-width: 100%;
+                position: relative;
+                bottom: 0;
 
-                        .info{
+                button {
+                    padding-left: 0;
+                    justify-content: center;
 
-                            strong,
-                            span{
-                                display: block;
-                                text-align: center;
-                            }
+                    .info{
+
+                        strong,
+                        span{
+                            display: block;
+                            text-align: center;
                         }
                     }
                 }
+            }
         }
     }
 }
